@@ -1,0 +1,14 @@
+[
+    {
+        "name": "First",
+        "description": "Description example for TECH blog number one"
+    },
+    {
+        "name": "Second",
+        "description": "Description example for TECH blog number two"
+    },
+    {
+        "name": "Third",
+        "description": "Description example for TECH blog number three"
+    }
+]

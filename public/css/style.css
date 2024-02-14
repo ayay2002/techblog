@@ -1,0 +1,18 @@
+@media (min-width: 36rem) {
+    .bigger-text {
+        font-size: 1.6rem;
+    }
+}
+@media (min-width:32rem) {
+    .btn-add-post {
+        width: 8rem;
+    }
+    .align-right {
+        text-align: right;
+    }
+}
+@media (min-width:36rem) {
+    .btn-login {
+        width: 8rem;
+    }
+}
