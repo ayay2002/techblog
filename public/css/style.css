@@ -16,3 +16,109 @@
         width: 8rem;
     }
 }
+
+.bigger-text {
+    font-size: 2rem;
+}
+.nav-item {
+    padding: 0px 10px;
+}
+.navbar-brand {
+    padding: 0px 20px;
+}
+
+.testred {
+    background-color: red;
+}
+
+.hidden {
+    display: none;    
+}
+
+.card-header {
+    display: block;
+    justify-content: space-between;
+    padding-bottom: 0px;    
+}
+
+.card-header h3,
+.card-header p {
+    vertical-align: middle;
+}
+
+.card-header p {
+    padding-top: 1px;
+}
+.card {
+    margin: 4vh auto;
+    max-width: 800px;
+}
+
+.main-container {
+    min-height: 83vh;
+}
+
+.btn-add-post {
+    margin-top: 20px;
+    width: 100%;
+}
+.dashboard-nopost {
+    margin: auto;
+    text-align: center;
+    margin-top:2rem;
+}
+
+.btn-login {
+    width: 100%;
+}
+.signup-link {
+    text-decoration: none;
+    color: grey;
+}
+
+.comment-card {
+    margin: 0;
+    margin-bottom: 10px;    
+}
+
+.comment-header,
+.comment-header h6,
+.comment-header p {
+    display:inline-flex;
+    padding: 5px;
+    padding-bottom:2px;
+    margin-bottom:0;
+}
+.comment-header {
+    justify-content: space-between;
+    padding: auto;
+}
+
+.comment-header p {
+    font-size: 0.8rem;
+}
+.comment-form {
+    padding: 10px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.true-user {
+    width: 10rem;
+}
+
+.delete-message {
+    padding-top:10px;
+    margin:0px;
+    color: red;
+}
+
+.button-container {
+    display: inline-flex;
+    justify-content: space-between;
+}
+.grouped-button .btn {
+    margin: 5px;
+}
